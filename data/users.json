@@ -1,1 +1,16 @@
-
+[
+    {
+        "id": 1770398861568,
+        "username": "admin1",
+        "password": "$2a$10$NvNPefp6PthCVWgvLfDlMedgwEVWSq/pam1lgaCCo0zAssCoXt6k.",
+        "role": "admin",
+        "createdAt": "2026-02-06T17:27:41.568Z"
+    },
+    {
+        "id": 1770398935523,
+        "username": "admin",
+        "password": "$2a$10$6dC9a/e1i7amgZQT4USMQOdpTTPKWJae5Ewn95YxhzFpb1m1LQ8j2",
+        "role": "admin",
+        "createdAt": "2026-02-06T17:28:55.523Z"
+    }
+]

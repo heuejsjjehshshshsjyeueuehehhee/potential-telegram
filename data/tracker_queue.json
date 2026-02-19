@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1770190105076,
+        "libraryId": 1770190105075,
+        "title": "Naruto",
+        "slug": "naruto",
+        "season": 1,
+        "lastEpisode": 57,
+        "targetEpisode": 57,
+        "totalEpisodes": 220,
+        "url": "https://watchanimeworld.net/series/naruto/",
+        "completed": true,
+        "lastChecked": "2026-02-04T07:33:34.307Z"
+    },
+    {
+        "id": 1770190136887,
+        "libraryId": 1770190105075,
+        "title": "Naruto",
+        "slug": "naruto",
+        "season": 2,
+        "lastEpisode": 100,
+        "targetEpisode": 100,
+        "totalEpisodes": 220,
+        "url": "https://watchanimeworld.net/series/naruto/",
+        "completed": true,
+        "lastChecked": "2026-02-04T07:37:03.362Z"
+    },
+    {
+        "id": 1771095880626,
+        "libraryId": "a2570f73-c7f7-459b-9b97-accbb314878e",
+        "title": "Naruto Shippuden",
+        "slug": "naruto-shippuden",
+        "season": 1,
+        "lastEpisode": 0,
+        "targetEpisode": 12,
+        "totalEpisodes": 32,
+        "url": "https://animesalt.top/series/naruto-shippuden/",
+        "completed": false
+    }
+]
